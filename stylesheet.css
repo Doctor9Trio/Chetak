@@ -17415,14 +17415,7 @@ a.pswp__share--download:hover {
 .u-lightbox .u-gallery-item {
   cursor: pointer;
 }
-/*end-commonstyles photoswipe-default*/
-/*!
- * animate.css -http://daneden.me/animate
- * Version - 3.7.0
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2018 Daniel Eden
- */
+
 .u-body {
   --animation-fade_in-opacity: 0;
   --animation-fade_in_up-opacity: 0;
@@ -19184,7 +19177,7 @@ p{
 
 }
 .btn:hover{
-    background-color: dimgrey;
+    background-color: grey;
 
 }
 .categories{
@@ -19210,28 +19203,6 @@ p{
 
 @media only screen and (max-width: 800px){
 
-    nav ul {
-        position: absolute;
-        top: 70px;
-        left: 0;
-        background: #333;
-        width: 100%;
-        overflow: hidden;
-        transition: max-height 0.5s;
-    }
-    nav ul li{
-        display: block;
-        margin-right: 50px;
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
-    nav ul li a{
-        color: #fff;
-    }
-    .menu-icon{
-        display: block;
-        cursor: pointer;
-    }
 }
 .row-2 {
     justify-content: space-between;
@@ -19262,7 +19233,7 @@ select:focus{
     color: #fff ;
 }
 .single-product{
-    margin-top: 80px;
+    margin-top: 230px;
 }
 
 .single-product .col-2 img {
@@ -19295,10 +19266,7 @@ select:focus{
 input:focus{
     outline: none
 }
-.single-product .fa{
-    color: #ff523b;
-    margin-left: 10px;
-}
+
 .small-img-row{
     display: flex;
     justify-content: space-between;
@@ -19396,7 +19364,7 @@ footer332{
 
 
 .copyright-wrapper{
-    padding: 20px 0;
+    padding: 10px 0;
     border-top: 2px solid rgba(88, 89, 120, 0.4); 
 }
 .copyright-wrapper p{
